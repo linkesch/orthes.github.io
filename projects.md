@@ -13,7 +13,7 @@ A blog that will help you find business books, essays, biographies, how-to books
 
 ### [muzom.sk](http://muzom.sk)
 
-Online magazine for men who think
+An online magazine for men who think
 
 
 ## Open source projects
