@@ -1,37 +1,26 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About me
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<p>I'm a co-founder and a developer of <a href="http://www.creator5.com">creator5</a>, an internet start-up helping mostly small and medium companies to build their web sites easier than ever.</p>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<p>At the same time, I work as a <strong>freelancer</strong> making use of my 9 years of professional experience in web development. I'm a big fan of testing and especially Test Driven Development.</p>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<p>My weapons of choice:</p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<ul>
+	<li>NodeJS - Express, KeystoneJS, Mocha</li>
+	<li>JavaScript - RequireJS, Backbone.js, jQuery, QUnit</li>
+	<li>PHP - Symfony2, Silex, PHPUnit, Selenium</li>
+	<li>DB - MySQL, MongoDB, SQLite</li>
+	<li>CSS - Sass, Compass</li>
+	<li>HTML5</li>
+	<li>Grunt</li>
+</ul>
+
+<p>Besides this, I graduated from Technical University of Košice with an Ing. degree (a master's degree in engineering) in <strong>cybernetics</strong>.</p>
+
+<p>Thanks to the college field of study I'm experienced in C, C#, Assembly, PLC, Oracle Database and OLAP, Matlab, Wonderware and RSLogix.</p>
+
+<p>Nevertheless, my specialty and passion is <strong>web development</strong>.</p>
