@@ -1,1 +1,1 @@
-My personal website powered by [Jekyll](http://jekyllrb.com) and [Hide](http://hyde.getpoole.com/).
+My personal website powered by [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com/).
