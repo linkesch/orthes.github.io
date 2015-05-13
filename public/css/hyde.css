@@ -99,6 +99,11 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.social {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
