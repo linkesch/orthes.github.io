@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Pavel Linkesch
 tagline:          'Web Developer'
 description:      'A full stack web developer, a freelancer, and an open souce fan'
-url:              http://linkesch.com
+url:              http://orthes.github.io/
 baseurl:          /
 
 author:
@@ -18,9 +18,3 @@ author:
   url:            https://twitter.com/linkesch
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
