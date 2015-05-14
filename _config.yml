@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Pavel Linkesch
 tagline:          'Web Developer'
-description:      'A full stack web developer, a freelancer, and an <a href="https://github.com/orthes">open source</a> fan'
+description:      'A full stack web developer, a freelancer, and an <a href="https://github.com/orthes">open source</a> fan. <a href="/contact/">Hire me!</a>'
 url:              http://linkesch.com/
 baseurl:          /
 
