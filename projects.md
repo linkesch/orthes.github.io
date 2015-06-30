@@ -33,11 +33,34 @@ A simple Mac OS X application, that informs you when is the best time to plug in
 
 ## Clients
 
-- [officebase.ch](http://www.officebase.ch)
-- [bueroszene.ch](http://www.bueroszene.ch)
-- [buerowissen.ch](http://www.buerowissen.ch)
-- [akciomat.sk](http://www.akciomat.sk)
-- [rodinnespolocenstvo.sk](http://www.rodinnespolocenstvo.sk)
-- [andresband.sk](http://www.andresband.sk)
-- [pureambitions.eu](http://pureambitions.eu)
-- And more...
+### [officebase.ch](http://www.officebase.ch)
+
+[officebase.ch](http://www.officebase.ch) and [officebase.info](http://www.officebase.info) are the biggest Swiss, German, and Austrian portals about office furniture. More than 6.000 products, 20.000 images, and 200 brands.
+
+### [bueroszene.ch](http://www.bueroszene.ch)
+
+A website of Swiss association of office furniture. Everything you need to know about office furniture, office chairs, office lightning, and office planning.
+
+### [buerowissen.ch](http://www.buerowissen.ch)
+
+A database of articles covering everything you need to know when designing an office.
+
+### [akciomat.sk](http://www.akciomat.sk)
+
+A complete guide for shopping, traveling, and fun. All the biggest sales and events in one place.
+
+### [rodinnespolocenstvo.sk](http://www.rodinnespolocenstvo.sk)
+
+A website of a civic association.
+
+### [pureambitions.eu](http://pureambitions.eu)
+
+A website of a creative agency.
+
+### [denzdesign.ch](http://denzdesign.ch/)
+
+A personal website of Albert Denz and DenzDesign.
+
+--
+
+And many more...
