@@ -2,14 +2,17 @@
 markdown:         redcarpet
 highlighter:      pygments
 
+# Plugins
+gems:
+    - jekyll-paginate
+
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Pavel Linkesch
-tagline:          'Web Developer'
-description:      'A full stack web developer, a freelancer, and an <a href="https://github.com/orthes">open source</a> fan. <a href="/contact/">Hire me!</a>'
+tagline:          'Frontend Developer'
+description:      'A frontend developer at <a href="https://maker.me">Maker</a> and an <a href="https://github.com/orthes">open source</a> fan'
 url:              http://linkesch.com/
 baseurl:          /
 
