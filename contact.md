@@ -19,7 +19,7 @@ You can find me on:
 [pavel.linkesch@gmail.com](mailto:pavel.linkesch@gmail.com)<br>
 +421 910 366 608
 
-<br>
+<!-- <br>
 
 ### Address and billing information:
 
@@ -33,4 +33,4 @@ DIČ: 1079470667
 
 IBAN: SK9083300000002700531338<br>
 SWIFT: FIOZSKBAXXX<br>
-Name of a bank: Fio banka, a.s.
+Name of a bank: Fio banka, a.s. -->
