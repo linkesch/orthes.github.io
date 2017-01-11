@@ -28,7 +28,8 @@ Hviezdoslavova 7<br>
 04001 Košice<br>
 Slovensko
 
-IČO: 50 526 154
+IČO: 50 526 154<br>
+DIČ: 2120380647
 
 IBAN: SK7783300000002301091101<br>
 SWIFT: FIOZSKBAXXX<br>
