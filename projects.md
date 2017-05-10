@@ -3,9 +3,9 @@ layout: page
 title: Projects
 ---
 
-I'm a <strong>full-time frontend developer</strong> at <a href="https://maker.me">Maker</a> these days, so if you're looking for a contractor, I'm not your guy anymore.
+<!-- I'm a <strong>full-time frontend developer</strong> at <a href="https://maker.me">Maker</a> these days, so if you're looking for a contractor, I'm not your guy anymore.
 
-This is a list of my personal and open-source projects as well as some of my clients from my contractor days.
+This is a list of my personal and open-source projects as well as some of my clients from my contractor days. -->
 
 ## Personal projects
 
