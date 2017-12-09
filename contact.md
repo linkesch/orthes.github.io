@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-I'm currently located in Košice, Slovakia, EU.
+I'm currently located in San Francisco, California.
 
 You can find me on:
 
@@ -17,11 +17,12 @@ You can find me on:
 ### Contact information
 
 [pavel.linkesch@gmail.com](mailto:pavel.linkesch@gmail.com)<br>
++1 (530) 407 2007<br>
 +421 910 366 608
 
 <br>
 
-### Address and billing information:
+### Billing information:
 
 **Linkesch s.r.o.**<br>
 Hviezdoslavova 7<br>
