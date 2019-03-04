@@ -1,23 +1,23 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Plugins
 gems:
-    - jekyll-paginate
+  - jekyll-paginate
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            Pavel Linkesch
-tagline:          'Frontend Developer'
-description:      'A lead frontend engineer and an <a href="https://github.com/orthes">open source</a> fan'
-url:              http://linkesch.com/
-baseurl:          /
+title: Pavel Linkesch
+tagline: "Frontend Developer"
+description: 'A lead frontend engineer and an <a href="https://github.com/orthes">open source</a> fan'
+url: https://linkesch.com/
+baseurl: /
 
 author:
-  name:           'Pavel Linkesch'
-  url:            https://twitter.com/linkesch
+  name: "Pavel Linkesch"
+  url: https://twitter.com/linkesch
 
-paginate:         5
+paginate: 5
