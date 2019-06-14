@@ -3,9 +3,7 @@ layout: page
 title: Projects
 ---
 
-I'm a <strong>full-time engineer</strong> at <a href="https://maker.me">Maker</a> these days, so if you're looking for a contractor, I'm not your guy anymore.
-
-This is a list of my personal and open-source projects as well as some of my clients from my contractor days.
+This is a list of my personal and open-source projects as well as some of my clients.
 
 ## Personal projects
 
@@ -36,6 +34,10 @@ Micro CMS for PHP 5.3 based on Silex framework
 A simple Mac OS X application, that informs you when is the best time to plug in/unplug your MacBook to/from a power adapter to prolong your battery life.
 
 ## Clients
+
+### [maker.co](https://www.maker.co)
+
+Maker is the easiest way to elevate your online presence. Our platform empowers you to create, publish and enhance any page on your existing site, without a line of code.
 
 ### [officebase.ch](https://www.officebase.ch)
 
@@ -68,5 +70,3 @@ A personal website of Albert Denz and DenzDesign.
 --
 
 And many more...
-
-<link rel="stylesheet" id="maker_experiments_init_css_33352" media="all" href="https://maker.me/social_stories/33352/publish_mode_css/experiment_setup.css" /><div class="js-maker-embed" data-maker-embed-id="33352" data-maker-type="socialstory" style="height: auto; width: 100%;" data-no-attribution="true" data-no-title="true" data-no-cover="true" data-no-share="true" data-no-tags="true" data-story-nav="false" data-experiments="true"></div><script src="https://maker.me/social_stories/33352/publish_mode_js/e/61.js"></script><script async src="https://maker.me/assets/embeds/embed_base.js"></script>
