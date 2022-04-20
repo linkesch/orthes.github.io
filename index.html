@@ -1,57 +1,95 @@
----
-layout: page
-title: About me
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pavel Linkesch</title>
+    <link href="https://gmpg.org/xfn/11" rel="profile" />
+    <meta name="description" content="Frontend Engineer" />
+    <meta name="author" content="Pavel Linkesch, https://linkesch.com/" />
+    <style>
+      html,
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, “Roboto”,
+          “Oxygen”, “Ubuntu”, “Cantarell”, “Fira Sans”, “Droid Sans”,
+          “Helvetica Neue”, sans-serif;
+        line-height: 24px;
+      }
+      .page {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        place-items: center center;
+        margin: 12px;
+        min-height: calc(100vh - 24px);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <div>
+        <h1>Pavel Linkesch</h1>
 
-<p>
-  Hey there! My name is Pavel and I'm a freelance frontend engineer /
-  contractor.
-</p>
+        <p>
+          Frontend Engineer at
+          <a href="https://www.maker.co" target="_blank">Maker</a>
+        </p>
+        <p>
+          <a href="mailto:pavel.linkesch@gmail.com">Email</a>,
+          <a href="https://twitter.com/linkesch" target="_blank">Twitter</a>,
+          <a href="https://www.facebook.com/linkesch" target="_blank"
+            >Facebook</a
+          >, <a href="https://github.com/linkesch" target="_blank">GitHub</a>,
+          <a href="https://www.linkedin.com/in/linkesch" target="_blank"
+            >LinkedIn</a
+          >
+        </p>
+        <br />
 
-<hr />
+        <h2>Billing information</h2>
+        <p>
+          <strong>Linkesch s.r.o.</strong><br />
+          Plzenská 1960/4<br />
+          Košice - mestská časť Západ<br />
+          040 11<br />
+          Slovensko
+        </p>
+        <p>
+          IČO: 50 526 154<br />
+          DIČ: 2120380647
+        </p>
+        <p>
+          IBAN: SK7783300000002301091101<br />
+          SWIFT: FIOZSKBAXXX<br />
+          Name of a bank: Fio banka, a.s., pobočka zahraničnej banky
+        </p>
+      </div>
+    </div>
 
-<p>
-  I've been programming websites professionally for 12+ years now. I've worked
-  with companies all around the world, I had my own startup, I have experience
-  as a freelancer/contractor. All this using and sharpening my weapons of
-  choice:
-</p>
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "//www.google-analytics.com/analytics.js",
+        "ga"
+      );
 
-<ul>
-  <li>
-    JavaScript (ES2015+) - React, Redux, Styled Components, Flux, Backbone.js,
-    Marionette, RequireJS, jQuery, QUnit, Jest, Mocha, Jasmine, CoffeeScript
-  </li>
-  <li>NodeJS - Express, KeystoneJS</li>
-  <li>PHP - Symfony2, Silex, PHPUnit, Selenium</li>
-  <li>DB - MySQL, MongoDB, SQLite</li>
-  <li>CSS - Sass</li>
-  <li>HTML5</li>
-  <li>Webpack, Grunt, Gulp</li>
-</ul>
-
-<p>
-  Even though I have a wide range of battle-proven skills, I'm focusing mostly
-  on JavaScript these days.
-</p>
-
-<p>
-  I'm also a huge fan of <a href="https://github.com/orthes">open-source</a>.
-  I'm a core contributor to
-  <a href="https://github.com/yabwe/medium-editor">medium-editor</a> (the most
-  starred WYSIWYG editor on Github).
-</p>
-
-<p>
-  Besides this, I graduated from Technical University of Košice with a master's
-  degree in <strong>cybernetics</strong>.
-</p>
-
-<p>
-  Thanks to the college field of study I'm experienced in C, C#, Assembly, PLC,
-  Oracle Database and OLAP, Matlab, Wonderware and RSLogix.
-</p>
-
-<p>
-  Nevertheless, my specialty and passion is <strong>web development</strong>.
-</p>
+      ga("create", "UA-62923199-1", "auto");
+      ga("send", "pageview");
+    </script>
+  </body>
+</html>
